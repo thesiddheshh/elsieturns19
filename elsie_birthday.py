@@ -25,7 +25,6 @@ BASE_IMG = "https://raw.githubusercontent.com/thesiddheshh/elsieturns19/main/ima
 PHOTO_URLS = [
     f"{BASE_IMG}/photo1.jpg",
     f"{BASE_IMG}/photo2.jpg",
-    f"{BASE_IMG}/photo3.jpg",
     f"{BASE_IMG}/photo4.jpg",
     f"{BASE_IMG}/photo5.jpg",
     f"{BASE_IMG}/photo6.jpg",
