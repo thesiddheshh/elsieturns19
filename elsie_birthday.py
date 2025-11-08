@@ -102,7 +102,7 @@ love, siddh."""
     SPOTIFY_PLAYLIST_EMBED_URL = "https://open.spotify.com/embed/playlist/6gi54nFBG8CUb0MNdU6tmt"
 
     # ✅ Clean GitHub image URLs (no spaces!)
-    BASE_IMG = "https://raw.githubusercontent.com/thesiddheshh/elsieturn19/main/images"
+    BASE_IMG = "https://raw.githubusercontent.com/thesiddheshh/elsieturns19/main/images"
     PHOTO_URLS = [
         f"{BASE_IMG}/photo1.jpg",
         f"{BASE_IMG}/photo2.jpg",
